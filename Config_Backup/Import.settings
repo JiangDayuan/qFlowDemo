@@ -1,0 +1,42 @@
+[General]
+	FormatVersion = 1.0
+	DefaultProfile = SHCC-Standard
+	
+[Profile "FAWVW-Standard"]
+	Sources = Step1, CT_Data, Sample, CMM_Data
+	
+[Source "Step1"]
+	DataPath = Process
+	ErrorPath = Import_Failure
+	ImportRules = STEP
+	
+[Source "CT_Data"]
+	DataPath = CT_Data
+	ErrorPath = Import_Failure
+	ImportRules = CTDATA
+
+[Source "Sample"]
+	DataPath = Sample
+	ErrorPath = Import_Failure
+	ImportRules = SAMPLE
+
+[Source "CMM_Data"]
+	DataPath = CMM_Data
+	ErrorPath = Import_Failure
+	ImportRules = CMMDATA
+
+[ImportRule "STEP"]
+	Filter = *.csv
+	Parser = Step1_Csv
+
+[ImportRule "CTDATA"]
+	Filter = *
+	Parser = CT_Data_Csv
+
+[ImportRule "SAMPLE"]
+	Filter = *.csv
+	Parser = Sample_Csv
+
+[ImportRule "CMMDATA"]
+	Filter = *
+	Parser = CMM_Data_Csv

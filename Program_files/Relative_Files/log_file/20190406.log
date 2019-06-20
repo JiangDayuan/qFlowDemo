@@ -1,0 +1,8 @@
+[              ] 2019-04-06 21:54:20,350 INFO   Mes_Pros_Main                   - Argument:'create'获取正确，运行创建Job号程序
+[              ] 2019-04-06 21:54:20,351 INFO   Assign                          - 成功进入job_number_create子程序
+[              ] 2019-04-06 21:54:20,355 INFO   Assign                          - 成功创建Job Number:SH20190406215420
+[              ] 2019-04-06 21:54:21,301 INFO   Mes_Pros_Main                   - Argument:'assign'获取正确，运行派工程序
+[              ] 2019-04-06 21:54:21,301 INFO   Assign                          - 成功进入job_assignment子程序
+[              ] 2019-04-06 21:54:21,553 INFO   Assign                          - PiWeb数据库(http://10.202.120.59:8088)连接成功
+[              ] 2019-04-06 21:54:21,555 INFO   Assign                          - 成功读取assignment.para中的信息
+[              ] 2019-04-06 21:54:21,591 INFO   Assign                          - 派工信息POST成功

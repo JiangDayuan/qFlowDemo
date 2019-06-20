@@ -1,0 +1,14 @@
+[              ] 2019-05-06 12:42:16,219 INFO   Mes_Pros_Main                   - Argument:'create'获取正确，运行创建Job号程序
+[              ] 2019-05-06 12:42:16,220 INFO   Assign                          - 成功进入job_number_create子程序
+[              ] 2019-05-06 12:42:16,221 INFO   Assign                          - 成功创建Job Number:SH20190506124216
+[              ] 2019-05-06 12:42:46,851 INFO   Mes_Pros_Main                   - Argument:'assign'获取正确，运行派工程序
+[              ] 2019-05-06 12:42:46,851 INFO   Assign                          - 成功进入job_assignment子程序
+[              ] 2019-05-06 12:42:51,219 ERROR   Assign                          - (10.202.120.59)网络连接失败,请检查网络后再试
+[              ] 2019-05-06 12:43:53,267 INFO   Mes_Pros_Main                   - Argument:'create'获取正确，运行创建Job号程序
+[              ] 2019-05-06 12:43:53,267 INFO   Assign                          - 成功进入job_number_create子程序
+[              ] 2019-05-06 12:43:53,268 INFO   Assign                          - 成功创建Job Number:SH20190506124353
+[              ] 2019-05-06 12:43:55,932 INFO   Mes_Pros_Main                   - Argument:'assign'获取正确，运行派工程序
+[              ] 2019-05-06 12:43:55,933 INFO   Assign                          - 成功进入job_assignment子程序
+[              ] 2019-05-06 12:43:56,409 INFO   Assign                          - PiWeb数据库(http://localhost:8090)连接成功
+[              ] 2019-05-06 12:43:56,412 INFO   Assign                          - 成功读取assignment.para中的信息
+[              ] 2019-05-06 12:43:56,494 INFO   Assign                          - 派工信息POST成功

@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Styles>
+    <Style ss:ID="LongDateTimeFormat" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+      <NumberFormat ss:Format="dd/mm/yyyy\ hh:mm:ss.000" />
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Table1" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Variable</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Expression</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Description</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Writable</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ValueList</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">VG_Version</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Version of VG</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">
+VGSTUDIO MAX 3.2
+VGSTUDIO MAX 3.1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">A_M1</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">0</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Analysis Module 1</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">坐标测量
+0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">A_M2</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">0</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Analysis Module 2</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">数模对比
+0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">A_M3</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">0</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Analysis Module 3</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">壁厚分析
+0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">A_M4</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">0</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Analysis Module 4</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">孔隙和夹杂分析
+0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">CALYPSO_Version</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">Calypso 6.4</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Version of Calypso</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">
+Calypso 6.6
+Calypso 6.4
+Calypso 6.2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">METROTOM</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">800/225 kV HR</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">ZEISS METROTOM</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">800/130 kV
+800/225 kV
+800/225 kV HR
+1500/225 kV</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Pixel</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${if Equal($METROTOM, "800/225 kV HR") then "1536 x 1920" else if Equal($METROTOM, "800/130 kV") then "1536 x 1920" else if Equal($METROTOM, "800/225 kV") then "1024 x 1024" else if Equal($METROTOM, "1500/225 kV") then "2048 x 2048" else "New Type"}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Number of Pixel</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">1536 x 1920
+1024 x 1024
+2048 x 2048</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Rebuild_Software</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">METROTOM OS 3.2</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Rebuild Software</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">METROTOM OS 3.2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">B_M1</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">0</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Rebuild Module 1</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">Volume Merge
+0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">B_M2</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">0</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Rebuild Module 2</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">VHD
+0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">B_M3</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">0</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Rebuild Module 3</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">BHC
+0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">B_M4</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">0</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Rebuild Module 4</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">AMMAR
+0</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">CT_AP</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">CT Key User</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">胡晓冬
+侯东
+朱文烽</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Free_Check</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">for offline check</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">
+已完成</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">CT_DS</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">胡晓冬</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">CT Key Owner</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">胡晓冬
+侯东
+朱文烽</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

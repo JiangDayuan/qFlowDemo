@@ -1,0 +1,16 @@
+[              ] 2019-04-09 19:18:54,151 INFO   Mes_Pros_Main                   - Argument:'create'获取正确，运行创建Job号程序
+[              ] 2019-04-09 19:18:54,151 INFO   Assign                          - 成功进入job_number_create子程序
+[              ] 2019-04-09 19:18:54,154 INFO   Assign                          - 成功创建Job Number:SH20190409191854
+[              ] 2019-04-09 19:19:10,821 INFO   Mes_Pros_Main                   - Argument:'assign'获取正确，运行派工程序
+[              ] 2019-04-09 19:19:10,821 INFO   Assign                          - 成功进入job_assignment子程序
+[              ] 2019-04-09 19:19:11,404 INFO   Assign                          - PiWeb数据库(http://10.202.120.59:8088)连接成功
+[              ] 2019-04-09 19:19:11,408 INFO   Assign                          - 成功读取assignment.para中的信息
+[              ] 2019-04-09 19:19:11,551 INFO   Assign                          - 派工信息POST成功
+[              ] 2019-04-09 19:20:56,651 INFO   Mes_Pros_Main                   - Argument:'filter'获取正确，运行更改筛选条件程序
+[              ] 2019-04-09 19:20:56,654 ERROR   Mes_Pros_Main                   - 成功修改search.msel
+[              ] 2019-04-09 19:20:56,656 INFO   Filter                          - 成功进入更改筛选条件子程序
+[              ] 2019-04-09 19:20:56,993 INFO   Mes_Pros_Main                   - 成功打开qFlow loading窗口
+[              ] 2019-04-09 19:21:10,926 INFO   Mes_Pros_Main                   - Argument:'addsample'获取正确，运行增加样件程序
+[              ] 2019-04-09 19:21:10,927 INFO   Assign                          - 成功进入add_samples子程序
+[              ] 2019-04-09 19:21:11,518 INFO   Assign                          - PiWeb数据库(http://10.202.120.59:8088)连接成功
+[              ] 2019-04-09 19:21:11,520 INFO   Assign                          - 成功读取samples.para中的信息

@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Styles>
+    <Style ss:ID="LongDateTimeFormat" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+      <NumberFormat ss:Format="dd/mm/yyyy\ hh:mm:ss.000" />
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Table1" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Variable</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Expression</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Description</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Writable</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ValueList</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_CT_AP</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">CT Key User</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">胡晓冬
+侯东
+朱文烽</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Free_Check</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">for offline check</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">
+已完成</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_CT_OWNER</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">何伟</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">CT Key Owner</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">胡晓冬
+侯东
+朱文烽</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_Owner</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">何伟</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">SHCC_Owner</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">
+          </Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_AP</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">SHCC_AP</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">张安富
+朱文烽
+柏茹龙
+周斌
+侯东
+汪杰
+江丰元
+赵佳庆
+陈萌
+黄栋
+侯延庆
+季冰峰
+胡晓冬</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_BLADE_OWNER</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">何伟</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">SHCC_BLADE_OWNER</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">
+          </Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_BLADE_AP</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">SHCC_BLADE_AP</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">季冰峰
+侯延庆</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_GEAR_OWNER</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">何伟</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">SHCC_GEAR_OWNER</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">周斌
+侯延庆
+柏茹龙
+黄栋
+汪杰
+季冰峰
+胡晓东</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_GEAR_AP</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">SHCC_GEAR_AP</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">周斌
+侯延庆
+柏茹龙
+黄栋
+汪杰
+季冰峰
+胡晓东</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_OPTICAL_OWNER</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">何伟</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">SHCC_OPTICAL_OWNER</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">汪杰
+陈萌
+黄栋</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">SHCC_OPTICAL_AP</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">${null}</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">
+          </Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">True</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">汪杰
+陈萌
+黄栋</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

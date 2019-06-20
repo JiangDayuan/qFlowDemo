@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Styles>
+    <Style ss:ID="LongDateTimeFormat" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+      <NumberFormat ss:Format="dd/mm/yyyy\ hh:mm:ss.000" />
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Table1" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">Name</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">en:English:English</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">zh:Chinese:中文</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ar:Arabic:العربية</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">bg:Bulgarian:български</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ca:Catalan:català</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">cs:Czech:čeština</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">da:Danish:dansk</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">de:German:Deutsch</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">el:Greek:Ελληνικά</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">es:Spanish:español</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">fi:Finnish:suomi</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">fr:French:français</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">he:Hebrew:עברית</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">hu:Hungarian:magyar</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">is:Icelandic:íslenska</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">it:Italian:italiano</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ja:Japanese:日本語</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ko:Korean:한국어</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">nl:Dutch:Nederlands</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">no:Norwegian:norsk</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">pl:Polish:polski</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">pt:Portuguese:Português</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">rm:Romansh:Rumantsch</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ro:Romanian:română</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ru:Russian:русский</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">hr:Croatian:hrvatski</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sk:Slovak:slovenčina</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sq:Albanian:shqipe</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sv:Swedish:svenska</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">th:Thai:ไทย</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">tr:Turkish:Türkçe</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ur:Urdu:اُردو</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">id:Indonesian:Bahasa Indonesia</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">uk:Ukrainian:українська</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">be:Belarusian:Беларускі</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sl:Slovenian:slovenski</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">et:Estonian:eesti</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">lv:Latvian:latviešu</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">lt:Lithuanian:lietuvių</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">tg:Tajik:Тоҷикӣ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">fa:Persian:فارسى</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">vi:Vietnamese:Tiếng Việt</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">hy:Armenian:Հայերեն</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">az:Azeri:Azərbaycan­ılı</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">eu:Basque:euskara</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">hsb:Upper Sorbian:hornjoserbšćina</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">mk:Macedonian (FYROM):македонски јазик</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">tn:Setswana:Setswana</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">xh:isiXhosa:isiXhosa</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">zu:isiZulu:isiZulu</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">af:Afrikaans:Afrikaans</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ka:Georgian:ქართული</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">fo:Faroese:føroyskt</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">hi:Hindi:हिंदी</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">mt:Maltese:Malti</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">se:Sami (Northern):davvisámegiella</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ga:Irish:Gaeilge</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ms:Malay:Bahasa Melayu</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">kk:Kazakh:Қазақ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ky:Kyrgyz:Кыргыз</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sw:Kiswahili:Kiswahili</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">tk:Turkmen:türkmençe</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">uz:Uzbek:U'zbek</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">tt:Tatar:Татар</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">bn:Bengali:বাংলা</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">pa:Punjabi:ਪੰਜਾਬੀ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">gu:Gujarati:ગુજરાતી</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">or:Oriya:ଓଡ଼ିଆ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ta:Tamil:தமிழ்</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">te:Telugu:తెలుగు</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">kn:Kannada:ಕನ್ನಡ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ml:Malayalam:മലയാളം</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">as:Assamese:অসমীয়া</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">mr:Marathi:मराठी</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sa:Sanskrit:संस्कृत</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">mn:Mongolian:Монгол хэл</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">bo:Tibetan:བོད་ཡིག</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">cy:Welsh:Cymraeg</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">km:Khmer:ខ្មែរ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">lo:Lao:ລາວ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">gl:Galician:galego</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">kok:Konkani:कोंकणी</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">syr:Syriac:ܣܘܪܝܝܐ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">si:Sinhala:සිංහල</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">iu:Inuktitut:Inuktitut</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">am:Amharic:አማርኛ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">tzm:Tamazight:Tamazight</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ne:Nepali:नेपाली</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">fy:Frisian:Frysk</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ps:Pashto:پښتو</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">fil:Filipino:Filipino</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">dv:Divehi:ދިވެހިބަސް</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ha:Hausa:Hausa</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">yo:Yoruba:Yoruba</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">quz:Quechua:runasimi</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">nso:Sesotho sa Leboa:Sesotho sa Leboa</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ba:Bashkir:Башҡорт</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">lb:Luxembourgish:Lëtzebuergesch</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">kl:Greenlandic:kalaallisut</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ig:Igbo:Igbo</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ii:Yi:ꆈꌠꁱꂷ</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">arn:Mapudungun:Mapudungun</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">moh:Mohawk:Kanien'kéha</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">br:Breton:brezhoneg</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ug:Uyghur:ئۇيغۇرچە</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">mi:Maori:Reo Māori</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">oc:Occitan:Occitan</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">co:Corsican:Corsu</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">gsw:Alsatian:Elsässisch</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sah:Yakut:саха</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">qut:K'iche:K'iche</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">rw:Kinyarwanda:Kinyarwanda</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">wo:Wolof:Wolof</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">prs:Dari:درى</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">gd:Scottish Gaelic:Gàidhlig</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">bs:Bosnian:bosanski</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sr:Serbian:srpski</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Check1</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">备件是否齐全 Are all the spare parts complete</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">备件是否齐全 Are all the spare parts complete</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Check2</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">机器是否清洁 Is the CMM clean</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">机器是否清洁 Is the CMM clean</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Check3</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">功能是否正常 Are the functions normal</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">功能是否正常 Are the functions normal</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Check4</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">探针是否校准 Are the styli calibrated</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">探针是否校准 Are the styli calibrated</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Check5</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">报告是否保存 Are the reports saved</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">报告是否保存 Are the reports saved</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Check6</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">机器是否归位 Is the CMM stopped at the right position</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">机器是否归位 Is the CMM stopped at the right position</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Check7</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">辅件是否归位 Are the accessories stored at the right positions</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">辅件是否归位 Are the accessories stored at the right positions</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Check8</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">桌面是否整理 Is the desk in order</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">桌面是否整理 Is the desk in order</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

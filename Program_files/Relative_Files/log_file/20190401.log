@@ -1,0 +1,20 @@
+[              ] 2019-04-01 09:07:22,947 INFO   Mes_Pros_Main                   - Argument:'create'获取正确，运行创建Job号程序
+[              ] 2019-04-01 09:07:22,947 INFO   Assign                          - 成功进入job_number_create子程序
+[              ] 2019-04-01 09:07:22,947 INFO   Assign                          - 成功创建Job Number:SH20190401090722
+[              ] 2019-04-01 09:07:40,389 INFO   Mes_Pros_Main                   - Argument:'assign'获取正确，运行派工程序
+[              ] 2019-04-01 09:07:40,390 INFO   Assign                          - 成功进入job_assignment子程序
+[              ] 2019-04-01 09:07:40,414 INFO   Assign                          - PiWeb数据库(http://10.202.120.59:8088)连接成功
+[              ] 2019-04-01 09:07:40,415 INFO   Assign                          - 成功读取assignment.para中的信息
+[              ] 2019-04-01 09:07:40,434 INFO   Assign                          - 派工信息POST成功
+[              ] 2019-04-01 09:08:16,215 INFO   Mes_Pros_Main                   - Argument:'filter'获取正确，运行更改筛选条件程序
+[              ] 2019-04-01 09:08:16,215 ERROR   Mes_Pros_Main                   - 成功修改search.msel
+[              ] 2019-04-01 09:08:16,215 INFO   Filter                          - 成功进入更改筛选条件子程序
+[              ] 2019-04-01 09:08:16,246 INFO   Mes_Pros_Main                   - 成功打开qFlow loading窗口
+[              ] 2019-04-01 09:12:59,444 INFO   Mes_Pros_Main                   - Argument:'filter'获取正确，运行更改筛选条件程序
+[              ] 2019-04-01 09:12:59,445 ERROR   Mes_Pros_Main                   - 成功修改search.msel
+[              ] 2019-04-01 09:12:59,445 INFO   Filter                          - 成功进入更改筛选条件子程序
+[              ] 2019-04-01 09:12:59,452 INFO   Mes_Pros_Main                   - 成功打开qFlow loading窗口
+[              ] 2019-04-01 09:42:09,421 INFO   Mes_Pros_Main                   - Argument:'filter'获取正确，运行更改筛选条件程序
+[              ] 2019-04-01 09:42:09,421 ERROR   Mes_Pros_Main                   - 成功修改search.msel
+[              ] 2019-04-01 09:42:09,421 INFO   Filter                          - 成功进入更改筛选条件子程序
+[              ] 2019-04-01 09:42:09,437 INFO   Mes_Pros_Main                   - 成功打开qFlow loading窗口

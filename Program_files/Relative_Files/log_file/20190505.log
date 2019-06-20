@@ -1,0 +1,8 @@
+[              ] 2019-05-05 13:25:05,771 INFO   Mes_Pros_Main                   - Argument:'filter'获取正确，运行更改筛选条件程序
+[              ] 2019-05-05 13:25:05,774 ERROR   Mes_Pros_Main                   - 成功修改search.msel
+[              ] 2019-05-05 13:25:05,775 INFO   Filter                          - 成功进入更改筛选条件子程序
+[              ] 2019-05-05 13:25:06,091 INFO   Mes_Pros_Main                   - 成功打开qFlow loading窗口
+[              ] 2019-05-05 13:29:54,848 INFO   Mes_Pros_Main                   - Argument:'filter'获取正确，运行更改筛选条件程序
+[              ] 2019-05-05 13:29:54,850 ERROR   Mes_Pros_Main                   - 成功修改search.msel
+[              ] 2019-05-05 13:29:54,853 INFO   Filter                          - 成功进入更改筛选条件子程序
+[              ] 2019-05-05 13:29:55,133 INFO   Mes_Pros_Main                   - 成功打开qFlow loading窗口
