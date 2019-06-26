@@ -1,0 +1,27 @@
+{
+  "AutoImporter": {
+    "IP": "None",
+    "ParentPath": "None",
+    "UserName": "None",
+    "Password": "None"
+  },
+  "BackupData": {
+    "IP": "localhost",
+    "ParentPath": "C:\\qFlow_Project\\File_Server",
+    "UserName": "None",
+    "Password": "None"
+  },
+  "PiWebHost": {
+    "IP": "localhost",
+    "Main": "http://localhost:8090"
+  },
+  "CC": "SHCC",
+  "Image": {
+    "Size": 512,
+    "TempPath": "C:\\Demo_Data\\Local_Temp"
+  },
+  "PiWebInterfaceValuePairs":{
+   "主界面":1000,
+   "创建新Demo":1000,
+  }
+}

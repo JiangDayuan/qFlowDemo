@@ -1,1 +1,1 @@
-for /r %C:\Users\ZCFJIAN1\Documents\1_PiWeb_Projects\CC_Process_System\qFlowDemo_20190504 %%i in (*.ptx) do "C:\Program Files\Zeiss\PiWeb\Cmdmon.exe" -open "%%i" -setDatabaseUrl "http://localhost:8090" -keepFileMetadata -clientAuthenticationMode "NoneOrBasic"
+for /r %C:\Users\ZCQIZHAO\Documents\GitHub\qFlowDemo %%i in (*.ptx) do "C:\Program Files\Zeiss\PiWeb\Cmdmon.exe" -open "%%i" -setDatabaseUrl "http://10.202.120.59:8088" -keepFileMetadata -clientAuthenticationMode "NoneOrBasic"
