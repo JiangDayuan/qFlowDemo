@@ -23,7 +23,7 @@
         <IsActive>False</IsActive>
         <ShowDeviationsMode>DeviationFromNominalValue</ShowDeviationsMode>
       </ShowDeviationsSettings>
-      <SpecificSelection><SpecificAttributeConditionSearch SpecialOperation="Undefined" Operation="Equal" Value="NB20190427163213">
+      <SpecificSelection><SpecificAttributeConditionSearch SpecialOperation="Undefined" Operation="Equal" Value="NB20190306123835">
   <Definition xsi:type="q1:AttributeDefinition" key="14" description="Serial Number" queryEfficient="false" type="AlphaNumeric" length="20" xmlns:q1="http://www.daimlerchrysler.com/DataService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
 </SpecificAttributeConditionSearch><IsLimitingSearchResult>False</IsLimitingSearchResult></SpecificSelection>
       <ShowMeasurementsOfAllParts>False</ShowMeasurementsOfAllParts>
