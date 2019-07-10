@@ -1,1 +1,70 @@
-{"AutoImporter":{"IP":"10.202.120.59","ParentPath":"JFY\\Demo","UserName":"ooolllpp","Password":"None"},"BackupData":{"IP":"10.202.120.59","ParentPath":"JFY\\Demo","UserName":"None","Password":"None"},"PiWebHost":{"IP":"10.202.120.59","Main":"http://10.202.120.59:8088"},"CC":"SHCC","Image":{"Size":"None","TempPath":"C:\\ZJQ\\qFlow\\CalypsoProtocol"},"PiWebInterfaceValuePairs":{"������":1000,"������Demo":1000}}
+{
+  "AutoImporter": {
+    "IP": "127.0.0.1",
+    "ParentPath": "None",
+    "UserName": "None",
+    "Password": "None"
+  },
+  "BackupData": {
+    "IP": "127.0.0.1",
+    "ParentPath": "qFlow_Project\\File_Server",
+    "UserName": "None",
+    "Password": "None"
+  },
+  "PiWebHost": {
+    "IP": "10.202.120.59",
+    "Main": "http://10.202.120.59:8088"
+  },
+  "CC": "SH",
+  "Image": {
+    "Size": 1024.0,
+    "TempPath": "C:\\Demo_Data\\Local_Temp"
+  },
+  "PiWebInterfaceValuePairs": {
+    "主界面": 1000,
+    "创建新Demo": 1000
+  },
+  "CT": {
+    "METROTOM": {
+      "800/225 kV HR": [
+        "1920 x 1536",
+        "1536 x 1920"
+      ],
+      "800/225 kV": [
+        "1024 x 1024"
+      ],
+      "1500/225 kV": [
+        "2048 x 2048"
+      ],
+      "800/130 kV": [
+        "1920 x 1536",
+        "1536 x 1920"
+      ]
+    },
+    "MOS": [
+      "METROTOM OS 3.4",
+      "METROTOM OS 3.2",
+      "METROTOM OS 3.3"
+    ],
+    "ScanMode": [
+      "VAST高速模式",
+      "常规启停模式"
+    ],
+    "Material": [
+      "铝",
+      "塑料",
+      "铜",
+      "钢",
+      "钛",
+      "铍",
+      "锌",
+      "镁",
+      "橡胶",
+      "织物"
+    ],
+    "MaterialMaxColumn": 6.0,
+    "VGVersion": 3.2,
+    "CALYPSOVersion": 6.6,
+    "NEOVersion": 2.0
+  }
+}
