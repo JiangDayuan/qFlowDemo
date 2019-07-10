@@ -6,7 +6,7 @@
     <CommonSearchCriteria>
       <SearchStrategy>LastN</SearchStrategy>
       <FilterConditions>
-<AttributeConditionDescription SpecialOperation="Undefined" Operation="Equal" Value="SH20190710203721">
+<AttributeConditionDescription SpecialOperation="Undefined" Operation="Equal" Value="SH20190428153836">
   <Definition xsi:type="q1:AttributeDefinition" key="14" description="Serial Number" queryEfficient="false" type="AlphaNumeric" length="20" xmlns:q1="http://www.daimlerchrysler.com/DataService" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
 </AttributeConditionDescription>
       </FilterConditions>
