@@ -98,7 +98,7 @@
       </CTAutofocus>
     </CorrectionSettings>
     <MultiMaterialArtefactReduction>
-      <AmmarEnabled>false</AmmarEnabled>
+      <AmmarEnabled>true</AmmarEnabled>
     </MultiMaterialArtefactReduction>
   </Measurement>
 </Measurements>
